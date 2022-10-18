@@ -1,3 +1,3 @@
 # Principles-Macro
 Principles of Macroeconomics
-Files for the Course Principles of Macroeconomics.
+Here you will find the materials for the Course.
